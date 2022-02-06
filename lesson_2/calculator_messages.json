@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to Calculator",
+  "validName": "Hmm... that doesn't look like a valid number.",
+  "firstNumber": "What's the first number?",
+  "secondNumber": "What's the second number?",
+  "whatOperation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+  "repeatCalculator": "Do you want to do another calculation?\n Click 'y' for Yes, Click 'n' for No"
+}
